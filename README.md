@@ -58,7 +58,6 @@ _Display overlay / modal / alert / dialog / lightbox / popup_
 - [boron](https://github.com/yuanyan/boron) - A collection of dialog animations with React.js.
 - [modali](https://github.com/upmostly/modali) - A delightful modal dialog component, built from the ground up to support React Hooks.
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
-- [react-dock](https://github.com/alexkuz/react-dock) - Resizable dockable react component.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 - [react-skylight](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
@@ -86,7 +85,6 @@ _Menus / sidebars_
 
 - [hamburger-react](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
-- [react-contextmenu](https://github.com/vkbansal/react-contextmenu) - Context Menu implemented in React.
 - [react-offcanvas](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React.
 - [react-planet](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
 
@@ -276,6 +274,8 @@ _Sketch input using Canvas or SVG_
 - [typography](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
 - [react-pulse-text](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) -  Allows you to animate the text of any property of another component.
 - [captcha-image](https://github.com/tpkahlon/captcha-image) - Allows you to generate a random captcha image with options.
+- [react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
+- [react-customizable-chat-bot](https://github.com/chithakumar13/react-chat-bot) - [Demo](https://chithakumar13.github.io/bot-example) - Build your own chatbot matching your brand needs in minutes.
 
 ### Form Components
 
@@ -286,7 +286,6 @@ _Let the user enter data_
 _Date picker / time picker / datetime picker / date range picker_
 
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
-- [react-calendar](https://github.com/freiksenet/react-calendar) - A modular toolkit to build calendar-related things in React.
 - [react-date-range](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
 - [react-datepicker2](https://github.com/mberneti/react-datepicker2) - [demo](https://mberneti.github.io/react-datepicker2/) - [docs](https://mberneti.github.io/react-datepicker2/) A simple and reusable datepicker component (with persian jalali calendar support).
@@ -300,6 +299,8 @@ _Date picker / time picker / datetime picker / date range picker_
 - [r-date-picker](https://github.com/KELEN/r-date-picker) - React.js high customize date picker component, easy style it.
 - [DevExtreme React Scheduler](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - High-performance plugin-based scheduler/calendar for Material Design.
 - [jQWidgets Scheduler](https://www.jqwidgets.com/react/react-scheduler/) - Feature complete Scheduling library.
+- [react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
+- [react-date-picker](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
 
 #### Emoji picker
 
@@ -385,6 +386,7 @@ _Let the user add multiple tags in a single input_
 - [react-draggable](https://github.com/mzabriskie/react-draggable) - React draggable component.
 - [react-dragula](https://github.com/bevacqua/react-dragula) - Drag and drop so simple it hurts.
 - [react-dropzone](https://github.com/okonet/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
+- [react-movable](https://github.com/tajo/react-movable) - Accessible and minimalistic (<4kB gzipped) library for vertical drag and drop in lists and tables.
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
 
 #### Sortable List
@@ -392,7 +394,6 @@ _Let the user add multiple tags in a single input_
 _Let the user define an order on a list_
 
 - [react-anything-sortable](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
-- [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - Higher-order components to turn any list into an animated, touch-friendly, sortable list.
 - [react-sortable](https://github.com/danielstocks/react-sortable) - A sortable list component built with React.
 - [sortablejs](https://github.com/SortableJS/Sortable) - Lists reorderable by drag-and-drop, within and among lists.
 
@@ -472,7 +473,7 @@ _Animate transitions_
 - [react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 - [react-gsap-enhancer](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
 - [react-magic-move](https://github.com/ryanflorence/react-magic-move) - MagicMove wrapper.
-- [react-motion-ui-pack](https://github.com/souporserious/react-motion-ui-pack) - Wrapper component around React Motion for easier UI transitions.
+- [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - A lightweight component to easily create interactive particles animations
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [react-mt-svg-lines](https://github.com/moarwick/react-mt-svg-lines) - Wrapper to animate the line stroke in SVGs.
 - [react-router-transition](https://github.com/maisano/react-router-transition) - Transitions built for react-router, powered by react-motion.
@@ -485,6 +486,7 @@ _Animate transitions_
 - [velocity-react](https://github.com/twitter-fabric/velocity-react) - Velocity.js wrapper.
 - [auto-size-transition](https://github.com/DualWield/auto-size-transition) - A component that scale dynamically according to the internal children size
 - [react-particles-bg](https://github.com/lindelof/particles-bg) - Particles backgrounds.
+- [gooey-react](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
 ### Parallax
 
@@ -709,6 +711,7 @@ _Component properties asynchronously fetched over the network_
 - [aphrodite](https://github.com/Khan/aphrodite) - It&#39;s inline styles, but they work!.
 - [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.
 - [inline-style-prefixer](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
+- [paperclip](https://paperclip.dev) - [docs](https://paperclip.dev/docs/) - Build UI primitivites with plain HTML & CSS.
 - [radium](https://github.com/FormidableLabs/radium) - A set of tools to manage inline styles on React elements.
 - [react-container-query](https://github.com/d6u/react-container-query) - Modular responsive component.
 - [react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
@@ -720,7 +723,6 @@ _Component properties asynchronously fetched over the network_
 
 - [hyperx](https://github.com/substack/hyperx) - Tagged template string virtual dom builder.
 - [jsx-control-statements](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX.
-- [react-templates](https://github.com/wix/react-templates) - Light weight templates for react.
 
 ### Isomorphic Apps
 
